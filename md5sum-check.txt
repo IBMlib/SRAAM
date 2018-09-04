@@ -1,4 +1,0 @@
-md5sum *.exe
-c331e7bb481083c629e907e3ac27eb44  ibmrun_connect_bootHD.exe
-dad94a6eea654062217ec616c9425bcb  ibmrun_connect_genericHD.exe
-44316f9637126e18fd241e0d911b6ae2  ibmrun_connect_HBM.exe
